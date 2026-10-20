@@ -12,56 +12,68 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ranisa =====
-[1]Ranisa      |05:43:04 | 19-10-2026| login OK @ranisalestari | score=1460 rank=4603
-[1]Ranisa      |05:43:04 | 19-10-2026| serverTime=2026-10-19T05:43:04.000Z local=2026-10-19T05:43:04.620Z
+[1]Ranisa      |05:39:59 | 20-10-2026| login OK @ranisalestari | score=1520 rank=4597
+[1]Ranisa      |05:39:59 | 20-10-2026| serverTime=2026-10-20T05:39:59.000Z local=2026-10-20T05:39:59.236Z
 --> [1]Ranisa menjalankan: Claim Daily
-[1]Ranisa      |05:43:06 | 19-10-2026| daily: OK +10 poin score=1470
---> [1]Ranisa menjalankan: Auto All Tasks (5 pending)
-[1]Ranisa      |05:43:09 | 19-10-2026| [1/5] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/ranisalestari/status/2112056563307357398
-[1]Ranisa      |05:43:09 | 19-10-2026| delay 10s...
-[1]Ranisa      |05:43:21 | 19-10-2026| [2/5] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/ranisalestari/status/2112056487629674979
-[1]Ranisa      |05:43:21 | 19-10-2026| delay 10s...
-[1]Ranisa      |05:43:35 | 19-10-2026| [3/5] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/ranisalestari/status/2112056653228912497
-[1]Ranisa      |05:43:35 | 19-10-2026| delay 10s...
-[1]Ranisa      |05:43:48 | 19-10-2026| [4/5] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/ranisalestari/status/2112056556607572164
-[1]Ranisa      |05:43:48 | 19-10-2026| delay 10s...
-[1]Ranisa      |05:44:00 | 19-10-2026| [5/5] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211199843779338 | proof=https://x.com/ranisalestari/status/2112056642862557702
-[1]Ranisa      |05:44:00 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ranisa      |05:44:02 | 19-10-2026| [1/1] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"75d20c29-b738-49d1-8a26-f4ad2da5408c","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111998437793382 | proof=https://x.com/ranisalestari/status/2112056816926050772
+[1]Ranisa      |05:40:00 | 20-10-2026| daily: OK +10 poin score=1530
+--> [1]Ranisa menjalankan: Auto All Tasks (11 pending)
+[1]Ranisa      |05:40:02 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112417993068131041
+[1]Ranisa      |05:40:02 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:40:27 | 20-10-2026| [2/11] 27d69bc4 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/ranisalestari/status/2112417959826757861
+[1]Ranisa      |05:40:27 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:40:39 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418296436469151
+[1]Ranisa      |05:40:39 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:40:52 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418348434424371
+[1]Ranisa      |05:40:52 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:41:04 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418466996932017
+[1]Ranisa      |05:41:04 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:41:16 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418558997189537
+[1]Ranisa      |05:41:16 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:41:28 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418277457690552
+[1]Ranisa      |05:41:28 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:41:40 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418690668606508
+[1]Ranisa      |05:41:40 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:41:52 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418623830044396
+[1]Ranisa      |05:41:52 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:42:04 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418574448642634
+[1]Ranisa      |05:42:04 | 20-10-2026| delay 10s...
+[1]Ranisa      |05:42:17 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/ranisalestari/status/2112418641123836282
+[1]Ranisa      |05:42:17 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ranisa      |05:42:19 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/ranisalestari/status/2112418636378597999
 --> [1]Ranisa menjalankan: Watch Anime
-[1]Ranisa      |05:44:03 | 19-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ranisa      |05:44:03 | 19-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Ranisa      |05:42:20 | 20-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Ranisa      |05:42:20 | 20-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Ranisa      |05:44:05 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Ranisa      |05:44:10 | 19-10-2026| watch [2/3] farming oshi-rainbow-lighthouse...
-[1]Ranisa      |05:44:12 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Ranisa      |05:44:17 | 19-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
-[1]Ranisa      |05:44:19 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Ranisa      |05:42:21 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Ranisa      |05:42:26 | 20-10-2026| watch [2/3] farming oshi-rainbow-lighthouse...
+[1]Ranisa      |05:42:27 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Ranisa      |05:42:32 | 20-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
+[1]Ranisa      |05:42:34 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Ranisa menjalankan: Read Article
-[1]Ranisa      |05:44:21 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Ranisa      |05:44:22 | 19-10-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ranisa      |05:44:22 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Ranisa      |05:42:36 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ranisa      |05:42:37 | 20-10-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Ranisa      |05:42:37 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Ranisa menjalankan: Quiz Anime
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Ranisa      |05:44:22 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Ranisa      |05:42:38 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Ranisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ranisa      |05:44:25 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ranisa      |05:44:26 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |05:44:26 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |05:44:26 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |05:42:40 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ranisa      |05:42:40 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |05:42:40 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |05:42:40 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Claim Missions
-[1]Ranisa      |05:44:27 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |05:44:27 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |05:44:27 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |05:42:41 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |05:42:41 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |05:42:41 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Check Eligibility
 
 --- eligibility [1]Ranisa ---
-  @ranisalestari | score=1460 rank=4603
-  tasks    [###################-] 74/79
+  @ranisalestari | score=1520 rank=4597
+  tasks    [#################---] 71/82
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -72,14 +84,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ranisa menjalankan: Read Manga
-[1]Ranisa      |05:44:35 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Ranisa      |05:42:45 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ranisa menjalankan: Get Gift
-[1]Ranisa      |05:44:35 | 19-10-2026| gift: 0/4 belum diterima
+[1]Ranisa      |05:42:46 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Ranisa menjalankan: Setup Profile
-[1]Ranisa      |05:44:36 | 19-10-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
-[1]Ranisa      |05:44:36 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Ranisa      |05:42:46 | 20-10-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
+[1]Ranisa      |05:42:46 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ranisa menjalankan: Bind Wallet
-[1]Ranisa      |05:44:36 | 19-10-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
+[1]Ranisa      |05:42:47 | 20-10-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
 
 == RINGKASAN ==
-- Ranisa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ranisa: daily=claimed | tasks OK 11/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
