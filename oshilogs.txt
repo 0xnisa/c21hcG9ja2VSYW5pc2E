@@ -12,134 +12,86 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ranisa =====
-[1]Ranisa      |08:22:03 | 21-10-2026| login OK @ranisalestari | score=1630 rank=4311
-[1]Ranisa      |08:22:03 | 21-10-2026| serverTime=2026-10-21T08:22:03.000Z local=2026-10-21T08:22:03.932Z
+[1]Ranisa      |09:19:53 | 22-10-2026| login OK @ranisalestari | score=1700 rank=4256
+[1]Ranisa      |09:19:53 | 22-10-2026| serverTime=2026-10-22T09:19:53.000Z local=2026-10-22T09:19:53.979Z
 --> [1]Ranisa menjalankan: Claim Daily
-[1]Ranisa      |08:22:05 | 21-10-2026| daily: OK +10 poin score=1640
---> [1]Ranisa menjalankan: Auto All Tasks (6 pending)
-[1]Ranisa      |08:22:08 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ranisalestari/status/2112821134976362287
-[1]Ranisa      |08:22:08 | 21-10-2026| delay 10s...
-[1]Ranisa      |08:22:21 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ranisalestari/status/2112821500177733643
-[1]Ranisa      |08:22:21 | 21-10-2026| delay 10s...
-[1]Ranisa      |08:22:33 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ranisalestari/status/2112821259427773172
-[1]Ranisa      |08:22:33 | 21-10-2026| delay 10s...
-[1]Ranisa      |08:22:46 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ranisalestari/status/2112821405174694082
-[1]Ranisa      |08:22:46 | 21-10-2026| delay 10s...
-[1]Ranisa      |08:23:00 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/ranisalestari/status/2112821638450046311
-[1]Ranisa      |08:23:00 | 21-10-2026| delay 10s...
-[1]Ranisa      |08:23:13 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Ranisa      |08:23:13 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ranisa      |08:23:16 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/ranisalestari/status/2112821565895114882
+[1]Ranisa      |09:19:55 | 22-10-2026| daily: OK +10 poin score=1710
+--> [1]Ranisa menjalankan: Auto All Tasks (9 pending)
+[1]Ranisa      |09:19:57 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198384639251059
+[1]Ranisa      |09:19:57 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:20:10 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198397082922017
+[1]Ranisa      |09:20:10 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:20:22 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198473725068751
+[1]Ranisa      |09:20:22 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:20:34 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198307579818503
+[1]Ranisa      |09:20:34 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:20:47 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198463653276711
+[1]Ranisa      |09:20:47 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:20:59 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198604117031210
+[1]Ranisa      |09:20:59 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:21:11 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198693605781058
+[1]Ranisa      |09:21:11 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:21:23 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198677519811026
+[1]Ranisa      |09:21:23 | 22-10-2026| delay 10s...
+[1]Ranisa      |09:21:35 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/ranisalestari/status/2113198727940004045
+[1]Ranisa      |09:21:35 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ranisa      |09:21:37 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/ranisalestari/status/2113198496480585990
 --> [1]Ranisa menjalankan: Watch Anime
-[1]Ranisa      |08:23:17 | 21-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ranisa      |08:23:17 | 21-10-2026| watch [1/3] farming oshi-captains-hat...
-[1]Ranisa      |08:23:19 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Ranisa      |08:23:25 | 21-10-2026| watch oshi-captains-hat: 5% (5.43/92.00s)
-[1]Ranisa      |08:23:32 | 21-10-2026| watch oshi-captains-hat: 12% (11.12/92.00s)
-[1]Ranisa      |08:23:39 | 21-10-2026| watch oshi-captains-hat: 18% (17.20/92.00s)
-[1]Ranisa      |08:23:46 | 21-10-2026| watch oshi-captains-hat: 25% (23.39/92.00s)
-[1]Ranisa      |08:23:53 | 21-10-2026| watch oshi-captains-hat: 32% (29.56/92.00s)
-[1]Ranisa      |08:23:59 | 21-10-2026| watch oshi-captains-hat: 38% (35.68/92.00s)
-[1]Ranisa      |08:24:06 | 21-10-2026| watch oshi-captains-hat: 45% (41.82/92.00s)
-[1]Ranisa      |08:24:13 | 21-10-2026| watch oshi-captains-hat: 51% (47.60/92.00s)
-[1]Ranisa      |08:24:19 | 21-10-2026| watch oshi-captains-hat: 58% (53.89/92.00s)
-[1]Ranisa      |08:24:26 | 21-10-2026| watch oshi-captains-hat: 65% (59.84/92.00s)
-[1]Ranisa      |08:24:33 | 21-10-2026| watch oshi-captains-hat: 71% (65.79/92.00s)
-[1]Ranisa      |08:24:40 | 21-10-2026| watch oshi-captains-hat: 78% (71.84/92.00s)
-[1]Ranisa      |08:24:48 | 21-10-2026| watch oshi-captains-hat: 85% (78.26/92.00s)
-[1]Ranisa      |08:24:55 | 21-10-2026| watch oshi-captains-hat: 92% (85.05/92.00s)
-[1]Ranisa      |08:24:55 | 21-10-2026| watch oshi-captains-hat: COMPLETED (85.05/92.00s)
-[1]Ranisa      |08:25:00 | 21-10-2026| watch [2/3] farming oshi-rainbow-lighthouse...
-[1]Ranisa      |08:25:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Ranisa      |08:25:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 6% (5.64/87.00s)
-[1]Ranisa      |08:25:15 | 21-10-2026| watch oshi-rainbow-lighthouse: 13% (11.39/87.00s)
-[1]Ranisa      |08:25:22 | 21-10-2026| watch oshi-rainbow-lighthouse: 19% (17.23/87.00s)
-[1]Ranisa      |08:25:29 | 21-10-2026| watch oshi-rainbow-lighthouse: 26% (23.31/87.00s)
-[1]Ranisa      |08:25:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 34% (29.88/87.00s)
-[1]Ranisa      |08:25:46 | 21-10-2026| watch oshi-rainbow-lighthouse: 34% (29.88/87.00s)
-[1]Ranisa      |08:25:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 41% (35.78/87.00s)
-[1]Ranisa      |08:25:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 47% (41.53/87.00s)
-[1]Ranisa      |08:26:05 | 21-10-2026| watch oshi-rainbow-lighthouse: 54% (47.27/87.00s)
-[1]Ranisa      |08:26:12 | 21-10-2026| watch oshi-rainbow-lighthouse: 61% (53.12/87.00s)
-[1]Ranisa      |08:26:18 | 21-10-2026| watch oshi-rainbow-lighthouse: 68% (59.35/87.00s)
-[1]Ranisa      |08:26:25 | 21-10-2026| watch oshi-rainbow-lighthouse: 74% (65.14/87.00s)
-[1]Ranisa      |08:26:32 | 21-10-2026| watch oshi-rainbow-lighthouse: 81% (70.94/87.00s)
-[1]Ranisa      |08:26:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 88% (77.42/87.00s)
-[1]Ranisa      |08:27:18 | 21-10-2026| watch oshi-rainbow-lighthouse: posisi mentok tanpa completed, stop
-[1]Ranisa      |08:27:23 | 21-10-2026| watch [3/3] farming bakeru-ikesou-jan-mv...
-[1]Ranisa      |08:27:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Ranisa      |08:27:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 3% (5.89/181.00s)
-[1]Ranisa      |08:27:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (12.57/181.00s)
-[1]Ranisa      |08:27:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 10% (18.37/181.00s)
-[1]Ranisa      |08:27:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 13% (24.44/181.00s)
-[1]Ranisa      |08:28:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 16% (30.36/181.00s)
-[1]Ranisa      |08:28:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 19% (36.20/181.00s)
-[1]Ranisa      |08:28:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 23% (41.98/181.00s)
-[1]Ranisa      |08:28:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 26% (47.91/181.00s)
-[1]Ranisa      |08:28:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 29% (53.58/181.00s)
-[1]Ranisa      |08:28:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 32% (59.41/181.00s)
-[1]Ranisa      |08:28:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.37/181.00s)
-[1]Ranisa      |08:28:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.76/181.00s)
-[1]Ranisa      |08:28:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.53/181.00s)
-[1]Ranisa      |08:28:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.30/181.00s)
-[1]Ranisa      |08:29:05 | 21-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.03/181.00s)
-[1]Ranisa      |08:29:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.90/181.00s)
-[1]Ranisa      |08:29:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.49/181.00s)
-[1]Ranisa      |08:29:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.23/181.00s)
-[1]Ranisa      |08:29:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.99/181.00s)
-[1]Ranisa      |08:29:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (119.05/181.00s)
-[1]Ranisa      |08:29:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.75/181.00s)
-[1]Ranisa      |08:29:53 | 21-10-2026| watch bakeru-ikesou-jan-mv: 72% (131.63/181.00s)
-[1]Ranisa      |08:30:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.28/181.00s)
-[1]Ranisa      |08:30:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (144.48/181.00s)
-[1]Ranisa      |08:30:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 83% (150.54/181.00s)
-[1]Ranisa      |08:30:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 86% (156.81/181.00s)
-[1]Ranisa      |08:30:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.57/181.00s)
-[1]Ranisa      |08:30:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.57/181.00s)
-[1]Ranisa      |08:30:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.57/181.00s)
+[1]Ranisa      |09:21:37 | 22-10-2026| watch: 1 video belum completed: oshi-rainbow-lighthouse
+[1]Ranisa      |09:21:37 | 22-10-2026| watch [1/1] farming oshi-rainbow-lighthouse...
+[1]Ranisa      |09:21:38 | 22-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 77.6s diabaikan)
+[1]Ranisa      |09:21:39 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:21:45 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:21:51 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:21:58 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:22:06 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:22:12 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (77.63/87.00s)
+[1]Ranisa      |09:22:18 | 22-10-2026| watch oshi-rainbow-lighthouse: 94% (81.95/87.00s)
+[1]Ranisa      |09:22:18 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.95/87.00s)
 --> [1]Ranisa menjalankan: Read Article
-[1]Ranisa      |08:30:35 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Ranisa      |08:30:36 | 21-10-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ranisa      |08:30:43 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ranisa      |09:22:19 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ranisa      |09:22:20 | 22-10-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Ranisa      |09:22:27 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ranisa      |09:22:35 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Ranisa menjalankan: Quiz Anime
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Ranisa      |08:30:45 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Ranisa      |09:22:38 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Ranisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ranisa      |08:30:48 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ranisa      |08:30:49 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |08:30:49 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |08:30:49 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |09:22:39 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ranisa      |09:22:40 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |09:22:40 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |09:22:40 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Claim Missions
-[1]Ranisa      |08:30:49 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |08:30:49 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |08:30:49 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |09:22:40 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |09:22:40 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |09:22:40 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Check Eligibility
 
 --- eligibility [1]Ranisa ---
-  @ranisalestari | score=1630 rank=4311
-  tasks    [###################-] 74/80
+  @ranisalestari | score=1700 rank=4256
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 21/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ranisa menjalankan: Read Manga
-[1]Ranisa      |08:30:55 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Ranisa      |09:22:44 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ranisa menjalankan: Get Gift
-[1]Ranisa      |08:30:56 | 21-10-2026| gift: 0/4 belum diterima
+[1]Ranisa      |09:22:45 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Ranisa menjalankan: Setup Profile
-[1]Ranisa      |08:30:57 | 21-10-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
-[1]Ranisa      |08:30:57 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Ranisa      |09:22:45 | 22-10-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
+[1]Ranisa      |09:22:45 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ranisa menjalankan: Bind Wallet
-[1]Ranisa      |08:30:58 | 21-10-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
+[1]Ranisa      |09:22:46 | 22-10-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
 
 == RINGKASAN ==
-- Ranisa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ranisa: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
