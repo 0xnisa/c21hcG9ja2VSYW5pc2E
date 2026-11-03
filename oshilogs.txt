@@ -12,49 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ranisa =====
-[1]Ranisa      |12:56:45 | 02-11-2026| login OK @ranisalestari | score=2700 rank=2893
-[1]Ranisa      |12:56:45 | 02-11-2026| serverTime=2026-11-02T12:56:45.000Z local=2026-11-02T12:56:45.833Z
+[1]Ranisa      |12:29:02 | 03-11-2026| login OK @ranisalestari | score=2790 rank=2743
+[1]Ranisa      |12:29:02 | 03-11-2026| serverTime=2026-11-03T12:29:02.000Z local=2026-11-03T12:29:02.088Z
 --> [1]Ranisa menjalankan: Claim Daily
-[1]Ranisa      |12:56:48 | 02-11-2026| daily: OK +10 poin score=2710
---> [1]Ranisa menjalankan: Auto All Tasks (8 pending)
-[1]Ranisa      |12:56:50 | 02-11-2026| [1/8] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117238910638961895
-[1]Ranisa      |12:56:50 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:57:03 | 02-11-2026| [2/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239187735725721
-[1]Ranisa      |12:57:03 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:57:15 | 02-11-2026| [3/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239160067133875
-[1]Ranisa      |12:57:15 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:57:27 | 02-11-2026| [4/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239222691343083
-[1]Ranisa      |12:57:27 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:57:44 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239160472638952
-[1]Ranisa      |12:57:44 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:57:57 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239441246182508
-[1]Ranisa      |12:57:57 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:58:10 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239471098002864
-[1]Ranisa      |12:58:10 | 02-11-2026| delay 10s...
-[1]Ranisa      |12:58:22 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/ranisalestari/status/2117239259351549029
-[1]Ranisa      |12:58:22 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ranisa      |12:58:24 | 02-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/ranisalestari/status/2117239498438261317
+[1]Ranisa      |12:29:03 | 03-11-2026| daily: OK +10 poin score=2800
+--> [1]Ranisa menjalankan: Auto All Tasks (3 pending)
+[1]Ranisa      |12:29:04 | 03-11-2026| [1/3] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/ranisalestari/status/2117594326143573679
+[1]Ranisa      |12:29:04 | 03-11-2026| delay 10s...
+[1]Ranisa      |12:29:18 | 03-11-2026| [2/3] 6608dad0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/ranisalestari/status/2117594537835496173
+[1]Ranisa      |12:29:18 | 03-11-2026| delay 10s...
+[1]Ranisa      |12:29:30 | 03-11-2026| [3/3] b7f716d0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211757419682197 | proof=https://x.com/ranisalestari/status/2117594590187489775
+[1]Ranisa      |12:29:30 | 03-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ranisa      |12:29:36 | 03-11-2026| [1/1] ba012859 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"ba012859-9955-45c5-a1dc-fef581880ca9","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117574196821975 | proof=https://x.com/ranisalestari/status/2117594654389864542
 --> [1]Ranisa menjalankan: Watch Anime
-[1]Ranisa      |12:58:25 | 02-11-2026| watch: semua video sudah completed
+[1]Ranisa      |12:29:38 | 03-11-2026| watch: semua video sudah completed
 --> [1]Ranisa menjalankan: Read Article
-[1]Ranisa      |12:58:27 | 02-11-2026| news: 33/34 artikel selesai dibaca
-[1]Ranisa      |12:58:27 | 02-11-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ranisa      |12:58:34 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
+[1]Ranisa      |12:29:41 | 03-11-2026| news: 34/34 artikel selesai dibaca
+[1]Ranisa      |12:29:42 | 03-11-2026| mint eligibility: {"userId":"1707472772480565248","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Ranisa      |12:29:42 | 03-11-2026| news: semua artikel sudah dibaca
 --> [1]Ranisa menjalankan: Quiz Anime
 --> [1]Ranisa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ranisa      |12:58:39 | 02-11-2026| music: kedua misi sudah tercapai, stop
-[1]Ranisa      |12:58:39 | 02-11-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |12:58:39 | 02-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |12:58:39 | 02-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |12:29:44 | 03-11-2026| music: kedua misi sudah tercapai, stop
+[1]Ranisa      |12:29:45 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |12:29:45 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |12:29:45 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Claim Missions
-[1]Ranisa      |12:58:40 | 02-11-2026| mission music-listens-10: sudah diklaim
-[1]Ranisa      |12:58:40 | 02-11-2026| mission music-minutes-30: sudah diklaim
-[1]Ranisa      |12:58:40 | 02-11-2026| mission anime-completed-3: sudah diklaim
+[1]Ranisa      |12:29:46 | 03-11-2026| mission music-listens-10: sudah diklaim
+[1]Ranisa      |12:29:46 | 03-11-2026| mission music-minutes-30: sudah diklaim
+[1]Ranisa      |12:29:46 | 03-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ranisa menjalankan: Check Eligibility
 
 --- eligibility [1]Ranisa ---
-  @ranisalestari | score=2700 rank=2893
-  tasks    [#########-----------] 7/15
+  @ranisalestari | score=2790 rank=2743
+  tasks    [##############------] 7/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,17 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ranisa menjalankan: Read Manga
-[1]Ranisa      |12:58:45 | 02-11-2026| manga: 0/13 chapter belum completed
+[1]Ranisa      |12:29:49 | 03-11-2026| manga: 0/13 chapter belum completed
 --> [1]Ranisa menjalankan: Get Gift
-[1]Ranisa      |12:58:47 | 02-11-2026| gift: 3/9 belum diterima
-[1]Ranisa      |12:58:47 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ranisa      |12:58:50 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Ranisa      |12:58:53 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ranisa      |12:29:50 | 03-11-2026| gift: 3/9 belum diterima
+[1]Ranisa      |12:29:51 | 03-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ranisa      |12:29:54 | 03-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Ranisa      |12:29:57 | 03-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Ranisa menjalankan: Setup Profile
-[1]Ranisa      |12:58:56 | 02-11-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
-[1]Ranisa      |12:58:56 | 02-11-2026| profile: bonus sudah diklaim, skip
+[1]Ranisa      |12:29:59 | 03-11-2026| profile: bio="https://x.com/ranisalestari" fav=kagura rewardAt=1791685651
+[1]Ranisa      |12:29:59 | 03-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Ranisa menjalankan: Bind Wallet
-[1]Ranisa      |12:58:57 | 02-11-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
+[1]Ranisa      |12:29:59 | 03-11-2026| wallet: sudah terikat FKWPxpmDPu... (solana)
 
 == RINGKASAN ==
-- Ranisa: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Ranisa: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
